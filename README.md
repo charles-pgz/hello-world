@@ -1,2 +1,3 @@
 # hello-world
-Just another project
+Hey man,
+I'm charles!
